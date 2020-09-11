@@ -1,6 +1,7 @@
 
 import React, { useState } from 'react';
 import { StyleSheet, Text, View, FlatList, TextInput, Button, Keyboard } from 'react-native';
+import PrevisaoItem from './components/PrevisaoItem';
 
 export default function App() {
 
@@ -41,7 +42,8 @@ export default function App() {
       <FlatList 
         data={previsoes}
         renderItem={ previsao => (
-          <Text>{JSON.stringify(previsao)}</Text>
+          //<Text>{JSON.stringify(previsao)}</Text>
+          <PrevisaoItem previsao={previsao.item}></PrevisaoItem>
         )}
       />
       
