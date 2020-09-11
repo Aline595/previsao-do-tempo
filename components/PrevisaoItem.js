@@ -4,7 +4,7 @@ import Cartao from './Cartao';
 
 const PrevisaoItem = (props) => {
   return (
-    <Cartao  >
+    <Cartao estilos={estilos.cartao} >
 
     </Cartao>
   )
@@ -12,7 +12,7 @@ const PrevisaoItem = (props) => {
 
 const estilos = StyleSheet.create({
   cartao: {
-    marginBottom: 
+    marginBottom: 8
   }
 });
 
