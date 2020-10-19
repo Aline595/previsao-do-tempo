@@ -1,4 +1,5 @@
-# previsao-do-tempo
+# Previsão do tempo 🌤️🌥️🌦️
+![previsao (2)](https://user-images.githubusercontent.com/56769013/96506081-66a74a80-122d-11eb-828b-018c98b40347.jpeg)
 Aplicação que mostra a previsão do tempo na cidade escolhida.
 
 <h3 align="center">
@@ -16,7 +17,7 @@ A aplicação  exibe os dados de temperatura mínima(min), temperatura máxima (
 
 Foi produzido com o uso da API [Current Weather Data](https://openweathermap.org/current) do Wheather API.  
 
-![previsao (2)](https://user-images.githubusercontent.com/56769013/96506081-66a74a80-122d-11eb-828b-018c98b40347.jpeg)
+
 
 
 ## :camera: Imagens
