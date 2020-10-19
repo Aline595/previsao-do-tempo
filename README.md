@@ -42,14 +42,14 @@ Foi produzido com o uso da API [Current Weather Data](https://openweathermap.org
 ### Passo a passo
 
 1. Fazer o clone deste repositorio :
-  ````
-  $ git clone https://github.com/Aline595/previsao-do-tempo.git
-  ````
+   ````
+   $ git clone https://github.com/Aline595/previsao-do-tempo.git
+   ````
 
 2. Adicionar as dependências:
-  ````
-  $ yarn install
-  ````
+   ````
+   $ yarn install
+   ````
 
 3. Iniciar aplicação:
    
