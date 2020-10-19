@@ -21,6 +21,7 @@ Foi produzido com o uso da API [Current Weather Data](https://openweathermap.org
 
 ## :camera: Imagens
 
+![20201019_164952](https://user-images.githubusercontent.com/56769013/96508695-6741e000-1231-11eb-8377-0c260757c978.gif)
 
 ![previsao](https://user-images.githubusercontent.com/56769013/96506399-f0571800-122d-11eb-9bdb-a6e55c422fb2.jpeg)
 
