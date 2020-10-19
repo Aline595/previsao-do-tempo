@@ -5,7 +5,7 @@ Aplicação que mostra a previsão do tempo na cidade escolhida.
   <a href="#dog-sobre-o-projeto">Sobre</a>&nbsp;|&nbsp;
   <a href="#computer-tecnologias">Tecnologias</a>&nbsp;|&nbsp;
   <a href="#camera-imagens">Imagens</a>&nbsp;|&nbsp;
-  <a href="#fire-como-usar">Como usar</a>&nbsp;&nbsp;
+  <a href="#fire-como-usar">Como usar</a>&nbsp;
 </h3>
 
 
@@ -41,14 +41,14 @@ Foi produzido com o uso da API [Current Weather Data](https://openweathermap.org
 ### Passo a passo
 
 1. Fazer o clone deste repositorio :
-````
-$ git clone https://github.com/Aline595/previsao-do-tempo.git
-````
+  ````
+  $ git clone https://github.com/Aline595/previsao-do-tempo.git
+  ````
 
 2. Adicionar as dependências:
-````
-$ yarn install
-````
+  ````
+  $ yarn install
+  ````
 
 3. Iniciar aplicação:
    
