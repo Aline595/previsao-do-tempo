@@ -14,7 +14,7 @@ O projeto é uma aplicaçaõ mobile onde se pode ver a previsão do tempo para a
 
 A aplicação  exibe os dados de temperatura mínima(min), temperatura máxima (max), a porcetagem da humidade do ar, o horario da previsão e uma breve descrição.  
 
-Foi produzido com o uso da API [Current Weather](https://openweathermap.org/current) Data do Wheather API.  
+Foi produzido com o uso da API [Current Weather Data](https://openweathermap.org/current) do Wheather API.  
 
 ![previsao (2)](https://user-images.githubusercontent.com/56769013/96506081-66a74a80-122d-11eb-828b-018c98b40347.jpeg)
 
